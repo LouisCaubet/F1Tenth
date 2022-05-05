@@ -1,0 +1,30 @@
+{
+    "DATASET_FOLDER": "/Data/PSCINF04/Datasets",
+    "DEBUG_GENERATE_ONLY_ONE_DATASET": false,
+    "DATASET_FILTER_ONLY_TURNS": true,
+    "DATASETS": [
+        "dataset_pp_brandshatch",
+        "dataset_pp_budapest",
+        "dataset_pp_catalunya",
+        "dataset_pp_hockenheim",
+        "dataset_pp_melbourne",
+        "dataset_pp_mexicocity",
+        "dataset_pp_moscow",
+        "dataset_pp_nuerburgring",
+        "dataset_pp_sakhir",
+        "dataset_pp_saopaulo",
+        "dataset_pp_sepang",
+        "dataset_pp_sochi",
+        "dataset_pp_spa",
+        "dataset_pp_spielberg",
+        "dataset_pp_zandvoort"
+    ],
+    "PTH_MODEL_TO_USE": "mobilenet_f1tenth_trained_v1.2.pth",
+    "PTH_PP_MODEL": "f1tenth_trained_pp_finetune_2.pth",
+    "RESUME_TRAINING": false,
+    "SB3_MODEL_TO_USE": "f1tenth_rl_trained_1k_resumed",
+    "GYM_MAP": "Hockenheim_map",
+    "GYM_ENABLE_RENDER": true,
+    "GYM_USE_RL_MODEL": false,
+    "RL_RESUME_TRAINING": false
+}
