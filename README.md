@@ -2,7 +2,7 @@
 
 Academic project at Ecole Polytechnique, 2021-22.
 
-I am leading my team of 6 students to prepare the 2022 international autonomous racing competition of Milan. We are using ROS to implement reactive and map-based algorithms, and plan to try reinforcement learning techniques using PyTorch and OpenAI Gym in the coming months.
+With my team of 6 students, we spend the academic year 2021-22 developing algorithms to drive an autonomous F1Tenth racecar. We used algorithmic techniques (follow the wall, follow the gap) and a supervised ML approach. We also tried to apply reinforcement learning using OpenAI Gym and stable baselines, but this technique was less successful. 
 
 ## Labs
 
