@@ -2,7 +2,7 @@
 
 Academic project at Ecole Polytechnique, 2021-22.
 
-With my team of 6 students, we spend the academic year 2021-22 developing algorithms to drive an autonomous F1Tenth racecar. We used algorithmic techniques (follow the wall, follow the gap) and a supervised ML approach. We also tried to apply reinforcement learning using OpenAI Gym and stable baselines, but this technique was less successful. 
+With my team, we spend the academic year 2021-22 developing algorithms to drive an autonomous F1Tenth racecar. We used algorithmic techniques (follow the wall, follow the gap) and a supervised ML approach. We also tried to apply reinforcement learning using OpenAI Gym and stable baselines, but this technique was less successful. 
 
 ## Labs
 
